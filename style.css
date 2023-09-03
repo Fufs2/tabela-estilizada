@@ -1,0 +1,16 @@
+.cabecalho{
+    padding: 10px;
+    color: white;
+}
+.dados{
+    padding: 10px;
+    background-color: #424250;
+    color: white;
+}
+
+#cabecalho-moda{
+    background-color: #BB86FC;
+}
+#cabecalho-casa{
+    background-color: #00c4b4;
+}
